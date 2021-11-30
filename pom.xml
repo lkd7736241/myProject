@@ -9,10 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>spring-boot-examples</module>
-        <module>zhouyang_dachangmianshi</module>
         <module>shangguigu_mianshi_01</module>
         <module>shangguigu_mianshi_springmvc</module>
+        <module>shangguigu_mianshi_02</module>
     </modules>
 
     <name>myProject</name>
@@ -32,6 +31,7 @@
         <druid.version>1.0.9</druid.version>
         <jackson.version>2.8.0</jackson.version>
         <thymeleaf.version>2.1.6.RELEASE</thymeleaf.version>
+        <lombok.version>1.16.18</lombok.version>
     </properties>
 
     <dependencies>
@@ -79,6 +79,11 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
             <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
         </dependency>
 
         <dependency>
