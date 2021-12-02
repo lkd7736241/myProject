@@ -8,72 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bc3ffc2-8ec7-40ac-ac44-f88b27086ae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_01/src/main/java/com/sun/第一季/方法的参数传递机制/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_01/src/main/java/com/sun/第一季/方法的参数传递机制/TransferValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/CAS算法/ABADemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/CAS算法/AtomicReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/CAS算法/CasDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/volatile关键字/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/volatile关键字/VolatileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/多线程中的锁/ReentrantReadWriteLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/多线程中的锁/RenenterLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/多线程中的锁/SpinLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/死锁及定位/DeadLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程池/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程池/MyThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程池/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程池/ThreadPoolParameterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程通信/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程通信/CountryEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程通信/CyclicBarrierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/线程通信/SemaphoreDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/阻塞队列/BlockingQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/阻塞队列/ProducerAndConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/阻塞队列/ProducerAndConsumer_BlockQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/阻塞队列/SyncAndReentrantLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/阻塞队列/SynchronousQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/juc/集合线程不安全/ContainerNotSafeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/java中四种引用类型/PhantomReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/java中四种引用类型/ReferenceQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/java中四种引用类型/SoftReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/java中四种引用类型/WeakHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/java中四种引用类型/WeakReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/jvm常用参数/HelloGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/oom_内存溢出/DirectBufferMemoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/oom_内存溢出/GCOverheadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/oom_内存溢出/JavaHeapSpaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/oom_内存溢出/MetaspaceOOMDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/oom_内存溢出/StackOverflowErrorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/jvm/垃圾收集器/GCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/test/java/com/sun/juc/volatile关键字/TestSingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/java基础/两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/java基础/字符串常量池.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/juc/ReEnterLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/juc/ReEnterLockDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/test/java/com/sun/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shangguigu_mianshi_springmvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shangguigu_mianshi_springmvc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-examples/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-examples/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-examples/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sun/多线程/交替打印_lock_condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sun/多线程/交替打印_lock_condition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sun/数据结构与算法/huawei/多线程$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/main/java/com/sun/AopStudyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/main/java/com/sun/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/main/java/com/sun/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/main/java/com/sun/java基础/字符串常量.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/main/java/com/sun/spring/CalcService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/main/java/com/sun/spring/MyAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/main/java/com/sun/spring/impl/CalcServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/test/java/com/sun/AopStudyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/src/test/java/com/sun/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shangguigu_mianshi_02/src/test/java/com/sun/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/classes/com/sun/AopStudyApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/classes/com/sun/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/classes/com/sun/java基础/字符串常量.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/classes/com/sun/spring/CalcService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/classes/com/sun/spring/MyAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/classes/com/sun/spring/impl/CalcServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/test-classes/com/sun/AopStudyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhouyang_dachangmianshi/target/test-classes/com/sun/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,12 +179,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="F:\babasportMaven\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA/apache-maven-3.3.3" />
-        <option name="userSettingsFile" value="F:\work\course\maven\settings.xml" />
-      </MavenGeneralSettings>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -576,7 +518,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -594,7 +536,145 @@
       <recent name="com.sun.第一季.单例模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloGC">
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+        <option value="TomeeConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReEnterLockDemo">
+    <configuration name="字符串常量池" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.java基础.字符串常量池" />
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.java基础.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.jvm常用参数.HelloGC" />
+      <module name="shangguigu_mianshi_02" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseParallelGC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetaspaceOOMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.oom_内存溢出.MetaspaceOOMDemo" />
+      <module name="shangguigu_mianshi_02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReEnterLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.juc.可重入锁.ReEnterLockDemo" />
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.juc.可重入锁.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReEnterLockDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.juc.可重入锁.ReEnterLockDemo2" />
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.juc.可重入锁.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.剑指offer.二维数组中的查找" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串常量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.周阳大厂面试题.字符串常量" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.选择排序" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="自增变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.第一季.自增变量" />
+      <module name="zhouyang_dachangmianshi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.选择排序" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.冒泡排序" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.java基础.两数之和" />
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.java基础.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="自守数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.自守数" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.最长公共子串" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="连续自然数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.连续自然数之和" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.53" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -608,17 +688,16 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_myProject" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49802" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Debug with VisualVM">
         <option name="DEBUG_PORT" value="55814" />
-        <option name="visualVMId" value="32103263660045" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -720,125 +799,16 @@
           <host-id />
         </data>
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="55812" />
         <option name="LOCAL" value="false" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Debug with VisualVM">
         <option name="DEBUG_PORT" value="55813" />
-        <option name="visualVMId" value="32101258108983" />
         <option name="LOCAL" value="false" />
       </RunnerSettings>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.插入排序" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DirectBufferMemoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.oom_内存溢出.DirectBufferMemoryDemo" />
-      <module name="shangguigu_mianshi_02" />
-      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=8m -XX:MaxMetaspaceSize=8m " />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GCOverheadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.oom_内存溢出.GCOverheadDemo" />
-      <module name="shangguigu_mianshi_02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.jvm常用参数.HelloGC" />
-      <module name="shangguigu_mianshi_02" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseParallelGC" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaHeapSpaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.oom_内存溢出.JavaHeapSpaceDemo" />
-      <module name="shangguigu_mianshi_02" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m " />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetaspaceOOMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.oom_内存溢出.MetaspaceOOMDemo" />
-      <module name="shangguigu_mianshi_02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="连续自然数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.连续自然数之和" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.剑指offer.二维数组中的查找" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串常量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.周阳大厂面试题.字符串常量" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.选择排序" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="自增变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.第一季.自增变量" />
-      <module name="zhouyang_dachangmianshi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.选择排序" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.冒泡排序" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="自守数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.自守数" />
-      <module name="myProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.最长公共子串" />
-      <module name="myProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -855,17 +825,16 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_myProject" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49802" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Debug with VisualVM">
         <option name="DEBUG_PORT" value="53616" />
-        <option name="visualVMId" value="28500713901616" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -947,20 +916,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.插入排序" />
-      <item itemvalue="Application.JavaHeapSpaceDemo" />
-      <item itemvalue="Application.GCOverheadDemo" />
-      <item itemvalue="Application.DirectBufferMemoryDemo" />
       <item itemvalue="Application.MetaspaceOOMDemo" />
       <item itemvalue="Application.HelloGC" />
+      <item itemvalue="Application.字符串常量池" />
+      <item itemvalue="Tomcat Server.myServlet" />
+      <item itemvalue="Application.ReEnterLockDemo" />
+      <item itemvalue="Application.ReEnterLockDemo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReEnterLockDemo" />
+        <item itemvalue="Application.ReEnterLockDemo2" />
+        <item itemvalue="Application.字符串常量池" />
         <item itemvalue="Application.HelloGC" />
         <item itemvalue="Application.MetaspaceOOMDemo" />
-        <item itemvalue="Application.DirectBufferMemoryDemo" />
-        <item itemvalue="Application.GCOverheadDemo" />
-        <item itemvalue="Application.JavaHeapSpaceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1107,7 +1076,11 @@
       <workItem from="1635474954638" duration="3045000" />
       <workItem from="1635833668564" duration="2017000" />
       <workItem from="1638283799527" duration="148000" />
-      <workItem from="1638284901582" duration="408000" />
+      <workItem from="1638284901582" duration="3491000" />
+      <workItem from="1638288966861" duration="433000" />
+      <workItem from="1638323369439" duration="6555000" />
+      <workItem from="1638418958896" duration="1095000" />
+      <workItem from="1638420091931" duration="7712000" />
     </task>
     <servers />
   </component>

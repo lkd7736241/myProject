@@ -12,6 +12,7 @@
         <module>shangguigu_mianshi_01</module>
         <module>shangguigu_mianshi_springmvc</module>
         <module>shangguigu_mianshi_02</module>
+        <module>shangguigu_mianshi_03</module>
     </modules>
 
     <name>myProject</name>
