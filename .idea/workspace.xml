@@ -8,16 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bc3ffc2-8ec7-40ac-ac44-f88b27086ae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/java基础/两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/java基础/字符串常量池.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/juc/ReEnterLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/juc/ReEnterLockDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/test/java/com/sun/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/AopStudyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/juc/aqs/AqsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/juc/lockSupport/LockSupportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/spring/component/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/spring/service/CalcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/spring/service/impl/CalcServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/src/test/java/com/sun/spring/AopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shangguigu_mianshi_03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shangguigu_mianshi_03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shangguigu_mianshi_03/src/test/java/com/sun/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +53,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Interface" />
         <option value="spring-beans.schema" />
         <option value="Enum" />
         <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -200,9 +202,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
@@ -518,7 +517,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -544,9 +543,22 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReEnterLockDemo">
-    <configuration name="字符串常量池" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.java基础.字符串常量池" />
+  <component name="RunManager" selected="JUnit.AopTest.testAop">
+    <configuration name="AqsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.juc.aqs.AqsDemo" />
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.juc.aqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.java基础.两数之和" />
       <module name="shangguigu_mianshi_03" />
       <extension name="coverage">
         <pattern>
@@ -558,43 +570,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.jvm常用参数.HelloGC" />
-      <module name="shangguigu_mianshi_02" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseParallelGC" />
+    <configuration name="自守数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.自守数" />
+      <module name="myProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetaspaceOOMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.jvm.oom_内存溢出.MetaspaceOOMDemo" />
-      <module name="shangguigu_mianshi_02" />
+    <configuration name="最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.最长公共子串" />
+      <module name="myProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReEnterLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.juc.可重入锁.ReEnterLockDemo" />
-      <module name="shangguigu_mianshi_03" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sun.juc.可重入锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReEnterLockDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.juc.可重入锁.ReEnterLockDemo2" />
-      <module name="shangguigu_mianshi_03" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sun.juc.可重入锁.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="连续自然数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.连续自然数之和" />
+      <module name="myProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -641,36 +633,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.java基础.两数之和" />
+    <configuration name="AopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shangguigu_mianshi_03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sun.java基础.*" />
+          <option name="PATTERN" value="com.sun.spring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.sun.spring" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.spring.AopTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="自守数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.自守数" />
-      <module name="myProject" />
+    <configuration name="AopTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sun.spring" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.spring.AopTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.最长公共子串" />
-      <module name="myProject" />
+    <configuration name="AopTest.testAop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sun.spring" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.spring.AopTest" />
+      <option name="METHOD_NAME" value="testAop" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="连续自然数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sun.数据结构与算法.huawei.连续自然数之和" />
-      <module name="myProject" />
+    <configuration name="AopStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shangguigu_mianshi_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sun.AopStudyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -916,20 +934,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MetaspaceOOMDemo" />
-      <item itemvalue="Application.HelloGC" />
-      <item itemvalue="Application.字符串常量池" />
+      <item itemvalue="Application.AqsDemo" />
       <item itemvalue="Tomcat Server.myServlet" />
-      <item itemvalue="Application.ReEnterLockDemo" />
-      <item itemvalue="Application.ReEnterLockDemo2" />
+      <item itemvalue="Spring Boot.AopStudyApplication" />
+      <item itemvalue="JUnit.AopTest.testAop" />
+      <item itemvalue="JUnit.AopTest" />
+      <item itemvalue="JUnit.AopTest.name" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReEnterLockDemo" />
-        <item itemvalue="Application.ReEnterLockDemo2" />
-        <item itemvalue="Application.字符串常量池" />
-        <item itemvalue="Application.HelloGC" />
-        <item itemvalue="Application.MetaspaceOOMDemo" />
+        <item itemvalue="JUnit.AopTest.testAop" />
+        <item itemvalue="JUnit.AopTest.name" />
+        <item itemvalue="Spring Boot.AopStudyApplication" />
+        <item itemvalue="JUnit.AopTest" />
+        <item itemvalue="Application.AqsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1080,7 +1098,14 @@
       <workItem from="1638288966861" duration="433000" />
       <workItem from="1638323369439" duration="6555000" />
       <workItem from="1638418958896" duration="1095000" />
-      <workItem from="1638420091931" duration="7712000" />
+      <workItem from="1638420091931" duration="13850000" />
+      <workItem from="1638459992368" duration="813000" />
+      <workItem from="1638490235432" duration="9332000" />
+      <workItem from="1638520325612" duration="660000" />
+      <workItem from="1638598508464" duration="622000" />
+      <workItem from="1638929784299" duration="5901000" />
+      <workItem from="1638961668255" duration="86000" />
+      <workItem from="1639538355184" duration="12923000" />
     </task>
     <servers />
   </component>
@@ -1347,9 +1372,33 @@
           <line>23</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shangguigu_mianshi_03/src/test/java/com/sun/spring/AopTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/spring/service/impl/CalcServiceImpl.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/spring/component/MyAspect.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shangguigu_mianshi_03/src/main/java/com/sun/spring/component/MyAspect.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.ConcurrentModificationException" package="java.util" />
           <option name="timeStamp" value="59" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="61" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

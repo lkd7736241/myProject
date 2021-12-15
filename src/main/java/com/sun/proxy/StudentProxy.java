@@ -6,6 +6,7 @@ import java.lang.reflect.Proxy;
 
 /**
  * create by qiulisun on 2018/12/15.<br>
+ *
  * @author 51050
  */
 public class StudentProxy {
@@ -37,6 +38,6 @@ public class StudentProxy {
                         return null;
                     }
                 }
-                );
+        );
     }
 }
